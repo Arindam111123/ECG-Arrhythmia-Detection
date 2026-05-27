@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or refer to this project, please cite it as below."
+title: "Heart Signals and Arrhythmia Detection: A Low-Cost ECG Monitor with Real-Time DSP on ESP32"
+abstract: >-
+  An end-to-end electrocardiogram acquisition, signal-conditioning and
+  arrhythmia detection pipeline built on the AD8232 analog front end and
+  the ESP32 microcontroller. Demonstrates real-time FIR/IIR filtering,
+  R-peak detection, BPM calculation, and tachycardia/bradycardia
+  classification on a sub-$10 platform.
+type: software
+authors:
+  - family-names: "George"
+    given-names:  "Ashil Jermine"
+    affiliation:  "BMS Institute of Technology and Management"
+  - family-names: "Maiya"
+    given-names:  "Amogha T."
+    affiliation:  "BMS Institute of Technology and Management"
+  - family-names: "Kashyap"
+    given-names:  "Arindam"
+    affiliation:  "BMS Institute of Technology and Management"
+  - family-names: "Srinivas"
+    given-names:  "D. P."
+    affiliation:  "BMS Institute of Technology and Management"
+keywords:
+  - ECG
+  - electrocardiogram
+  - arrhythmia detection
+  - digital signal processing
+  - ESP32
+  - AD8232
+  - FIR filter
+  - IIR notch
+  - MIT-BIH
+license: MIT
+date-released: 2026-01-01

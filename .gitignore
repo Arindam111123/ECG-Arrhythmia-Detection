@@ -1,0 +1,53 @@
+# -------- Python --------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# -------- MATLAB --------
+*.asv
+*.m~
+slprj/
+*.autosave
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# -------- Arduino / ESP32 --------
+build/
+*.bin
+*.elf
+*.hex
+.vscode/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# -------- Processing --------
+processing/ecg_visualizer/data/*.csv
+processing/ecg_visualizer/out/
+
+# -------- Cache / OS --------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# -------- Local data --------
+simulation/.cache/
+*.dat
+*.atr
+*.hea
+!simulation/sample_data/*
+
+# -------- IDE --------
+.idea/
+*.iml
