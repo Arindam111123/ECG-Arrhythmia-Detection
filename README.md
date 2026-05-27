@@ -1,7 +1,7 @@
 <div align="center">
 
 # Heart Signals & Arrhythmia Detection
-### A frugal, real-time ECG monitoring & arrhythmia classification system
+### A cheap, real-time ECG monitoring & arrhythmia classification system
 
 ![Status](https://img.shields.io/badge/status-prototype-blue)
 ![Hardware](https://img.shields.io/badge/hardware-ESP32%20%2B%20AD8232-orange)
@@ -9,8 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Course](https://img.shields.io/badge/course-BEC502-purple)
 
-*A low-cost (₹2,000) alternative to ₹50,000+ hospital-grade ECG monitors,
-built from a $5 microcontroller and a $10 sensor.*
+*A low-cost (₹2,000) alternative to ₹50,000+ hospital-grade ECG monitors
 
 </div>
 
@@ -21,10 +20,10 @@ built from a $5 microcontroller and a $10 sensor.*
 This project implements an end-to-end electrocardiogram (ECG) acquisition,
 signal-conditioning, and arrhythmia detection pipeline using:
 
-- **AD8232** single-lead heart-rate front-end (the analog "amplifier")
-- **ESP32** microcontroller (the real-time DSP engine)
-- **MATLAB** for offline filter design (the "Recipe")
-- **C++** firmware on the ESP32 (the "Chef" that executes filters live)
+- **AD8232** single-lead heart-rate front-end 
+- **ESP32** microcontroller
+- **MATLAB** for offline filter design
+- **C++** firmware on the ESP32 
 - **Processing IDE** for a doctor-friendly real-time waveform display
 - **Python + wfdb** simulation against the MIT-BIH Arrhythmia Database
 
