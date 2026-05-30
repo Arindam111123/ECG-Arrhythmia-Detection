@@ -211,20 +211,6 @@ fidelity.
 - **Wi-Fi telemetry** to a Blynk / ThingSpeak dashboard.
 - **Battery-operated PCB** so it leaves the breadboard for real field use.
 
-## Authors
-
-Team from the Department of Electronics & Communication,
-**BMS Institute of Technology and Management**, Bengaluru.
-
-| Name | USN |
-|---|---|
-| Ashil Jermine George | 1BY23EC023 |
-| Amogha T. Maiya      | 1BY23EC013 |
-| Arindam Kashyap      | 1BY23EC021 |
-| D. P. Srinivas       | 1BY23EC042 |
-
-**Course coordinators**: Dr. Vijayalakshmi G V, Dr. Mamatha K R.
-**Course**: Digital Signal Processing (BEC502), 2025-26.
 
 ## References
 
