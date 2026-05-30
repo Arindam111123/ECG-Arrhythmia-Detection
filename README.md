@@ -7,7 +7,6 @@
 ![Hardware](https://img.shields.io/badge/hardware-ESP32%20%2B%20AD8232-orange)
 ![DSP](https://img.shields.io/badge/DSP-FIR%20%2F%20IIR-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Course](https://img.shields.io/badge/course-BEC502-purple)
 
 *A low-cost (₹2,000) alternative to ₹50,000+ hospital-grade ECG monitors
 
